@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+	<user>
+		<username>Alice</username>
+		<password>alice</password>
+		<status>valid</status>
+	</user>
+	<user>
+		<username>Bob</username>
+		<password>bob</password>
+		<status>valid</status>
+	</user>
+	<user>
+		<username>Charlie</username>
+		<password>charlie</password>
+		<status>valid</status>
+	</user>
+	<user>
+		<username>Ovie</username>
+		<password>ovie</password>
+		<status>valid</status>
+	</user>
+</data>
