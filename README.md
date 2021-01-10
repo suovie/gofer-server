@@ -10,7 +10,7 @@ Use maven
 
 ## Todo
 - Proper message encryption layer
-- Improve multithreading
+- Improve multi-threading
 
-## Screnshot
+## Screenshot
 ![Shot](./shot.png)
